@@ -815,3 +815,12 @@ The important lessons are:
 - Understand the security boundary between a container and its host.
 
 The most important skill is not memorizing commands. It is understanding why each step works and using that knowledge to investigate the next clue.
+
+
+# Author
+
+Deadcode
+
+# License 
+
+MIT
